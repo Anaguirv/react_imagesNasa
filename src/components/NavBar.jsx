@@ -11,7 +11,7 @@ export function NavBar({ imageCount, setImageCount }) {
         <a className="navbar-brand" href="#">
           <img src="/nasa-logo.svg" alt="Nasa-ico" width="50" height="44" />
         </a>
-        <h1>Galería de Imágenes</h1>
+        <h1>Galería de Imágenessss</h1>
         <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
