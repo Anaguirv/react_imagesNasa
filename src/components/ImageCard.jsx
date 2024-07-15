@@ -11,7 +11,7 @@ export function ImageCard({ imagen }) {
                     <img 
                         src={imagen.hdurl || imagen.url} 
                         className="img-fluid rounded-start w-100" 
-                        alt={imagen.title} 
+                        alt={imagen.title}
                         style={{ objectFit: 'cover', height:'100%'}}
                     />
                 </div>
