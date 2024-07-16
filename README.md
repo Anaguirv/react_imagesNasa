@@ -1,10 +1,5 @@
 # Galería de Imágenes de la NASA
 
-<aside>
-<img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="10px" /> Link = [https://anaguirv.github.io/react_imagesNasa/](https://anaguirv.github.io/react_imagesNasa/)
-
-## Descripción del Proyecto
-
 Este proyecto es una galería de imágenes de la NASA construida con React, Vite y Bootstrap. Utiliza la API de Astronomy Picture of the Day (APOD) de la NASA para obtener imágenes de forma aleatoria  y mostrarlas en un carrusel y en tarjetas. Los usuarios pueden seleccionar la cantidad de imágenes a mostrar desde un menú de navegación y cada que se actualiza el número se cargará un nuevo lote de imágenes.
 
 ### Guía de uso
