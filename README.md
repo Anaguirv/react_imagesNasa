@@ -1,6 +1,7 @@
 # Galería de Imágenes de la NASA
 
----
+<aside>
+<img src="https://www.notion.so/icons/link_gray.svg" alt="https://www.notion.so/icons/link_gray.svg" width="10px" /> Link = [https://anaguirv.github.io/react_imagesNasa/](https://anaguirv.github.io/react_imagesNasa/)
 
 ## Descripción del Proyecto
 
