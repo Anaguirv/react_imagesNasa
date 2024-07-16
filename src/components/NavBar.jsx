@@ -9,9 +9,9 @@ export function NavBar({ imageCount, setImageCount }) {
     <nav className="navbar navbar-dark bg-dark fixed-top p-2">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          <img src="/nasa-logo.svg" alt="Nasa-ico" width="50" height="44" />
+          <img src="/src/media/nasa-ico.svg" alt="Nasa-ico" width="50" height="44" />
         </a>
-        <h1>Galería de Imágenessss</h1>
+        <h1>Galería de Imágenes</h1>
         <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
